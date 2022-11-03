@@ -392,9 +392,9 @@ Write a valid MIPS assembly code and compile the code with [MIPS-assembler](3%20
 
 ![4-bit MIPS Circuit Diagram](3%20-%204%20bit%20MIPS%20processor/4-bit_mips_processor_circuit_diagram.png)
 
-## Group members:
+## Group Members:
+- [Anup Bhowmik](https://github.com/Anupznk)
 - [Showvik Biswas](https://github.com/showvikbiswas)
 - [Fardin Anam Aungon](https://github.com/fardinanam)
 - [Kazi Ababil Azam](https://github.com/ababiltalha)
 - [Muhammad Ehsanul Kader](https://github.com/ehsankader16)
-- [Anup Bhowmik](https://github.com/Anupznk)
