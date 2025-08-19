@@ -1,10 +1,10 @@
-# CSE-306-Computer-Architecture-Sessional
+# Computer Architecture Projects
 
 ## Contents
 
-- [4 bit ALU(Algorithmic Logic Unit)](#4-bit-alu)
+- [4 bit ALU (Algorithmic Logic Unit)](#4-bit-alu)
 - [Floating Point Adder](#floating-point-adder)
-- [4 bit MIPS processor](#4-bit-mips-processor)
+- [4 bit MIPS Processor](#4-bit-mips-processor)
 
 ## 4 bit ALU
 
