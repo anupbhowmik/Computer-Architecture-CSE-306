@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [4 bit ALU (Algorithmic Logic Unit)](#4-bit-alu)
+- [4 bit ALU (Arithmetic Logic Unit)](#4-bit-alu)
 - [Floating Point Adder](#floating-point-adder)
 - [4 bit MIPS Processor](#4-bit-mips-processor)
 
