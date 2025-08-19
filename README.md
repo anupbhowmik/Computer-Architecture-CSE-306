@@ -144,7 +144,7 @@ The processor implements 16 different instructions (4-bit opcode):
 
 ### Circuit diagram:
 
-![4-bit MIPS Circuit Diagram](3%20-%204%20bit%20MIPS%20processor/4-bit_mips_processor_circuit_diagram.png)
+![4-bit MIPS Circuit Diagram](4-bit-MIPS-processor/4-bit_mips_processor_circuit_diagram.png)
 
 ## How to use
 
@@ -367,7 +367,7 @@ The numbers are in normalized form. There are two flags U (underflow) and O (ove
 ### Flow chart:
 
 <p align="center">
-  <img src="2 - Floating Point Adder/floating_point_adder_flowchart.svg" height="1200em" placeholder="Floating point adder flow chart"></img>
+  <img src="Floating-Point-Adder/floating_point_adder_flowchart.svg" height="1200em" placeholder="Floating point adder flow chart"></img>
 </p>
 
 ### Circuit diagram:
@@ -544,7 +544,7 @@ Z<sub>i</sub> = S<sub>1</sub>'C<sub>i</sub>
 
 ### Circuit diagram:
 
-![4 bit ALU circuit diagram](1%20-%204%20bit%20ALU/4%20bit%20ALU%20circuit%20diagram.png)
+![4 bit ALU circuit diagram](4-bit-ALU/4%20bit%20ALU%20circuit%20diagram.png)
 
 ## Group Members:
 
