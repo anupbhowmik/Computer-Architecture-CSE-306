@@ -372,7 +372,7 @@ The numbers are in normalized form. There are two flags U (underflow) and O (ove
 
 ### Circuit diagram:
 
-![Floating point adder circuit diagram](2%20-%20Floating%20Point%20Adder/floating_point_adder_circuit_diagram.png)
+![Floating point adder circuit diagram](Floating-Point-Adder/floating_point_adder_circuit_diagram.png)
 
 ### What individual components do:
 
